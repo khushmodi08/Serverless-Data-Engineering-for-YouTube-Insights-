@@ -1,4 +1,4 @@
-# Serverless-Data-Engineering-for-YouTube-Insights-
+# Serverless-Data-Engineering-for-YouTube-Insights
 
 
 ## Overview
